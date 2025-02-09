@@ -17,7 +17,7 @@
 
 
 ![Swetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=swetha2360&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swetha2360&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swetha2360&layout=compacticons=true&theme=transparent)
 
 [![Swetha github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=swetha2360&bg_color=222021&color=ffffff&line=1ff702&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
