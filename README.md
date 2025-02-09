@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning  DSA
 - 👯 I'm looking to collaborate AI/ML
 - Social Presence  
-       <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/swetha-senthilvel-43b915290/)
+       <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/swetha-senthilvel/)
 
 
 ### I code in
