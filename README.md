@@ -16,7 +16,8 @@
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/><img height="50" src="https://img.icons8.com/officel/480/null/java-eclipse.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/> 
 
 ![Swetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=swetha2360&theme=dark&show_icons=true&&hide=issues,contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swetha2360&layout=compact)
 ![GeeksForGeeks stats](<https://gfgstatscard.vercel.app/swethasent5dnj?theme=dark>)
 
 [![Swetha github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=swetha2360&bg_color=222021&color=ffffff&line=1ff702&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
